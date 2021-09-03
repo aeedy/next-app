@@ -1,4 +1,4 @@
-/** @jsx jsx */
+
 import { jsx, Container, Flex } from 'theme-ui';
 import PriceCard from 'components/price-card';
 import SectionHeader from 'components/section-header';

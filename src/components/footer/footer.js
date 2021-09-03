@@ -1,4 +1,4 @@
-/** @jsx jsx */
+
 import { jsx, Heading, Box, Container, Text } from 'theme-ui';
 import { Link } from 'components/link';
 import menuItems from './footer.data';
