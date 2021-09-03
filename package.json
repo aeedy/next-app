@@ -36,5 +36,8 @@
     "imagemin-optipng": "^8.0.0",
     "imagemin-svgo": "^9.0.0",
     "next-sitemap": "^1.6.164"
+  },
+  "engines": {
+    "node": "14.17.1"
   }
 }
